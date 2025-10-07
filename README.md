@@ -1,14 +1,20 @@
 # Bruce's iOS Shortcuts Catalog
 
-_Personal iOS Shortcuts Catalog, which also includes various Actions & Automations.
+_Personal iOS Shortcuts Catalog, which also includes various Actions & Automations._
 
-<br>
 
----
+## 🗃️ Shortcut Folders
 
-<br>
-
-### 🗃️ Shortcut Folders
+- 🛠️  System Settings & Toggles
+- 🌐 Network & DNS Tools
+- 📱 Device Management
+- 📸 Media & Camera
+- 📑 Text, Clipboard & List Utilities
+- 🗂️ Backup, Restore & File Tools
+- 💬 Messaging
+- 🧰 Developer & RoutineHub Tools
+- 🥱 Sleep & Relaxation
+- 🤷🏼‍♂️ Misc. Utilities
 
 
 ## Categorized iOS Shortcuts
@@ -58,7 +64,7 @@ _Personal iOS Shortcuts Catalog, which also includes various Actions & Automatio
 1.
 
 
-### Misc. Utilities
+### 🤷🏼‍♂️ Misc. Utilities
 
 1.
 
